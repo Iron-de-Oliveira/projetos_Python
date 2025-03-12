@@ -1,2 +1,3 @@
 # projetos_Python
-para minhas aulas de python
+ESTE REPOSITÓRIO CONTEM TODAS AS ATIVIDADES E DESAFIOS 
+DAS AULAS DE "ESTRUTURA DE DADOS" 
